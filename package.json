@@ -9,8 +9,10 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
+    "elliptic": "^6.5.3",
+    "node-forge": "^0.10.0",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6",
     "vuex": "^3.3.0"
